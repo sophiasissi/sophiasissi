@@ -39,6 +39,7 @@
 <a href="https://www.linkedin.com/in/sophia-sissi-guedes-685613285" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/sophiasissi/sophiasissi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sophiasissi/sophiasissi/output/github-contribution-grid-snake.svg)
 
 <!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-design--> 
 <!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file-->
