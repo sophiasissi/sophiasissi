@@ -3,7 +3,7 @@
 
 - 💼 I'm currently working as an intern at Itaú in the technology area and studying at the Mauá Institute of Technology (IMT) studying Computer Science.
 - 🌱 Currently studying Dart, C and R.
-- 
+
 ## 👩‍💻Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
