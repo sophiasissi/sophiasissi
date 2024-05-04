@@ -35,7 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiasissi&layout=compact)
 
 ## 💬 Social:
-<a href =  "mailto:contato@sophiacurcioguedes"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href =  "mailto:sophiacurcioguedes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sophia-sissi-guedes-685613285" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/sophiasissi/sophiasissi/blob/output/github-contribution-grid-snake.svg)
