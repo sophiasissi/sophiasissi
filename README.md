@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Sophia Sissi
+# 👋 Hello! My name is Sophia Sissi Curcio Guedes
 ## Welcome to my Github profile!
 
 - 👩‍🎓 I'm currently studying Computer Science at the Mauá Institute of Technology (IMT).
