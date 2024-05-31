@@ -1,10 +1,11 @@
 # 👋 Hello! My name is Sophia Sissi
 ## Welcome to my Github profile!
 
-- 💼 I'm currently working as an intern at Itaú in the technology area and studying at the Mauá Institute of Technology (IMT) studying Computer Science.
-- 🌱 Currently studying Dart, C and R.
+- 👩‍🎓 I'm currently studying Computer Science at the Mauá Institute of Technology (IMT).
+- 💼 I'm currently working as an intern at the Itaú Unibanco technology center.
+- 👩‍💻 Front-End Developer.
 
-## 👩‍💻Languages
+## 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
